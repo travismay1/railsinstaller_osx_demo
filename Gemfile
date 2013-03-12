@@ -8,7 +8,7 @@ gem 'rails', '3.2.12'
 gem 'activerecord-jdbcsqlite3-adapter'
 gem 'mysql2', group: 'production'
 
-gem 'jruby-openssl'
+  #gem 'jruby-openssl'
 
 # Gems used only for assets and not required
 # in production environments by default.
